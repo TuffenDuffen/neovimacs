@@ -1,0 +1,11 @@
+/home/tuffen/neovimacs/target/debug/deps/liblinux_raw_sys-a112c4efa979c137.rmeta: /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/lib.rs /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/elf.rs /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/errno.rs /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/general.rs /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs
+
+/home/tuffen/neovimacs/target/debug/deps/liblinux_raw_sys-a112c4efa979c137.rlib: /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/lib.rs /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/elf.rs /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/errno.rs /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/general.rs /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs
+
+/home/tuffen/neovimacs/target/debug/deps/linux_raw_sys-a112c4efa979c137.d: /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/lib.rs /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/elf.rs /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/errno.rs /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/general.rs /home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs
+
+/home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/lib.rs:
+/home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/elf.rs:
+/home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/errno.rs:
+/home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/general.rs:
+/home/tuffen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs:
