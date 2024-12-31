@@ -14,18 +14,3 @@ environments and containers.
 By default, Neovimacs assumes you want a neovim-centric environment where Neovim
 is launched by default. Quitting Neovim will cause the process to finish. Use Neovim's
 Terminal mode to get a shell, and use CTRL+\ + CTRL+n to get out of terminal mode.
-
-# The Lua configuration
-The configuration of Neovimacs is done in a file called `config.lua`. This file
-is a lua module, which means it ends with `return config` where `config` is a table.
-
-### The structure of the `config` table
-```
-config
-|-packages [Array of strings of packages to install]
-|-system [System settings]
-|-users [User configuration]
-|-root [Filesystem root]
-```
-
-#### Packages
