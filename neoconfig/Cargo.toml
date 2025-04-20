@@ -1,8 +1,8 @@
 [package]
-name = "neobuilder"
+name = "neoconfig"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 clap = { version = "4.5.26", features = ["derive"] }
-mlua = { version = "0.10.2", features = ["luajit"] }
+mlua = { version = "0.10.2", features = ["luajit", "vendored"] }
